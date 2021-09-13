@@ -1,0 +1,1000 @@
+Uri: http://annusa.themezinho.net/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\index.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\xfn\11.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/feed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://annusa.themezinho.net/comments/feed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://annusa.themezinho.net/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/css/bundle.min.css?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\css\bundle.min.css
+Content Type: text/css
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/css/bootstrap.min.css?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/css/style.css?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\css\style.css
+Content Type: text/css
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/style.css?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\style.css
+Content Type: text/css
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.6.0
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: http://annusa.themezinho.net/wp-json/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\pages\9.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/studio/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\studio\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/cases/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\cases\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/blog/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\blog\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/hello/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\hello\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/2020/02/29/project-is-the-result-of-a-challenge-i-participated-in-as-a-guest-on-the-futurs-young-guns-series-on-videox/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\2020\02\29\project-is-the-result-of-a-challenge-i-participated-in-as-a-guest-on-the-futurs-young-guns-series-on-videox\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/2020/02/29/design-is-our-playground-while-we-create-an-awesome-experience-we-like-having-fun-no-animals-were-harmed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\2020\02\29\design-is-our-playground-while-we-create-an-awesome-experience-we-like-having-fun-no-animals-were-harmed\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/2020/02/29/gn-america-hires-review-as-design-and-development-partner-we-like-having-fun-no-animals-were-harmed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\2020\02\29\gn-america-hires-review-as-design-and-development-partner-we-like-having-fun-no-animals-were-harmed\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/js/comments.js?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\js\comments.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo@2x.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo@2x.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/icon01.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\icon01.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/icon02.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\icon02.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/icon03.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\icon03.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/side-image.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\side-image.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog05.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog05.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog04.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog04.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog03.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog03.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-includes/js/dist/url.min.js?ver=0ac7e0472c46121366e7ce07244be1ac
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-includes/js/dist/api-fetch.min.js?ver=a783d1f442d2abefc7d6dbd156a44561
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/js/bootstrap.min.js?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/js/bundle.js?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\js\bundle.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/js/scripts.js?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-includes/js/wp-embed.min.js?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.6.0
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog05-300x164.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog05-300x164.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog05-1024x559.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog05-1024x559.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog05-768x419.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog05-768x419.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog04-300x164.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog04-300x164.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog04-1024x559.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog04-1024x559.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog04-768x419.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog04-768x419.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog03-300x164.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog03-300x164.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog03-1024x559.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog03-1024x559.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog03-768x419.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog03-768x419.jpg.jfif
+Content Type: image/jpeg
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\index-1.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr.eot
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr.woff
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr.woff
+Content Type: font/woff
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr.ttf
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr.ttf
+Content Type: font/ttf
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr.svg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr.svg
+Content Type: image/svg+xml
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr-bold.eot
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr-bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr-bold.woff
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr-bold.woff
+Content Type: font/woff
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr-bold.ttf
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr-bold.ttf
+Content Type: font/ttf
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr-bold.svg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr-bold.svg
+Content Type: image/svg+xml
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr-black.eot
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr-black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr-black.woff
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr-black.woff
+Content Type: font/woff
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr-black.ttf
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr-black.ttf
+Content Type: font/ttf
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/fonts/cera-gr-black.svg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\fonts\cera-gr-black.svg
+Content Type: image/svg+xml
+
+Uri: http://annusa.themezinho.net/wp-content/themes/annusa/images/bg-noise.gif
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\themes\annusa\images\bg-noise.gif
+Content Type: image/gif
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: http://annusa.themezinho.net/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/awards-bg.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\awards-bg.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/pages/43
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\pages\43.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fstudio%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fstudio%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: http://www.seniors.co.uk/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\index-2.htm
+Content Type: text/html
+
+Uri: http://www.snake.co.uk/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\index-4.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/video01.mp4
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\video01.mp4
+Content Type: video/mp4
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/icon05.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\icon05.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/icon04.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\icon04.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/icon06.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\icon06.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/studio01.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\studio01.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/studio02.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\studio02.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/studio03.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\studio03.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo-fwa.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo-fwa.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo-awwwards.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo-awwwards.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo-cssda.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo-cssda.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/team01.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\team01.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/team02.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\team02.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/team03.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\team03.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/team04.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\team04.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/team05.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\team05.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/team06.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\team06.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/team07.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\team07.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/team08.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\team08.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/team09.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\team09.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/studio.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\studio.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo01.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo01.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo02.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo02.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo03.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo03.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo04.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo04.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo05.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo05.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo06.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo06.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo07.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo07.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo08.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo08.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo09.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo09.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo10.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo10.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo11.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo11.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/logo12.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\logo12.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/pages/156
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\pages\156.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fcases%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fcases%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/portfolio/women/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\portfolio\women\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/portfolio/ice-cream/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\portfolio\ice-cream\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/portfolio/boys-tears/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\portfolio\boys-tears\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/portfolio/orquestra/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\portfolio\orquestra\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/portfolio/new-kids/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\portfolio\new-kids\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/portfolio/fabelle/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\portfolio\fabelle\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/portfolio/yoghurt/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\portfolio\yoghurt\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/portfolio/mandarina/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\portfolio\mandarina\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/portfolio/faktori/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\portfolio\faktori\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/portfolio/get-in/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\portfolio\get-in\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/works01.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\works01.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/works02.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\works02.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/works03.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\works03.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/works04.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\works04.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/works05.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\works05.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/works06.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\works06.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/works07.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\works07.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/works08.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\works08.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/works09.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\works09.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/works10.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\works10.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/author/admin/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\author\admin\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/2020/02/29/the-work-is-as-important-as-the-pleasure-we-get-from-doing-it-such-an-authentic-corporate-culture/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\2020\02\29\the-work-is-as-important-as-the-pleasure-we-get-from-doing-it-such-an-authentic-corporate-culture\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/2020/02/29/qubment-was-a-startup-that-created-a-powerful-augmented-reality-engine-but-they-needed-to-bring-platform/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\2020\02\29\qubment-was-a-startup-that-created-a-powerful-augmented-reality-engine-but-they-needed-to-bring-platform\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog05-1015x655.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog05-1015x655.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/author01.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\author01.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog04-1015x655.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog04-1015x655.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog03-1015x655.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog03-1015x655.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog02-1015x655.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog02-1015x655.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/02/blog01-1015x655.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\02\blog01-1015x655.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/pages/160
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\pages\160.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fhello%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fhello%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1498.8335443850715!2d29.010099928464147!3d41.067370151233185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!2zxLBzdGFuYnVs!5e0!3m2!1sen!2str!4v1583057986377!5m2!1sen!2str
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\maps\embed.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/side-image01.png
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\side-image01.png
+Content Type: image/png
+
+Uri: http://annusa.themezinho.net/2020/02/29/project-is-the-result-of-a-challenge-i-participated-in-as-a-guest-on-the-futurs-young-guns-series-on-videox/feed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\2020\02\29\project-is-the-result-of-a-challenge-i-participated-in-as-a-guest-on-the-futurs-young-guns-series-on-videox\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/posts/139
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\posts\139.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F2020%2F02%2F29%2Fproject-is-the-result-of-a-challenge-i-participated-in-as-a-guest-on-the-futurs-young-guns-series-on-videox%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F2020%2F02%2F29%2Fproject-is-the-result-of-a-challenge-i-participated-in-as-a-guest-on-the-futurs-young-guns-series-on-videox%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/category/uncategorized/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/wp-includes/js/comment-reply.min.js?ver=5.7.2
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://annusa.themezinho.net/2020/02/29/design-is-our-playground-while-we-create-an-awesome-experience-we-like-having-fun-no-animals-were-harmed/feed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\2020\02\29\design-is-our-playground-while-we-create-an-awesome-experience-we-like-having-fun-no-animals-were-harmed\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/posts/137
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\posts\137.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F2020%2F02%2F29%2Fdesign-is-our-playground-while-we-create-an-awesome-experience-we-like-having-fun-no-animals-were-harmed%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F2020%2F02%2F29%2Fdesign-is-our-playground-while-we-create-an-awesome-experience-we-like-having-fun-no-animals-were-harmed%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/2020/02/29/gn-america-hires-review-as-design-and-development-partner-we-like-having-fun-no-animals-were-harmed/feed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\2020\02\29\gn-america-hires-review-as-design-and-development-partner-we-like-having-fun-no-animals-were-harmed\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/posts/135
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\posts\135.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F2020%2F02%2F29%2Fgn-america-hires-review-as-design-and-development-partner-we-like-having-fun-no-animals-were-harmed%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F2020%2F02%2F29%2Fgn-america-hires-review-as-design-and-development-partner-we-like-having-fun-no-animals-were-harmed%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://attach.org/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\index-3.htm
+Content Type: text/html
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/case-detail07.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\case-detail07.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fwomen%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fwomen%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/case-detail01.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\case-detail01.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/case-detail02.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\case-detail02.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/video03.mp4
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\video03.mp4
+Content Type: video/mp4
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/case-detail05.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\case-detail05.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-content/uploads/2020/03/case-detail06.jpg
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-content\uploads\2020\03\case-detail06.jpg.jfif
+Content Type: image/jpeg
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fice-cream%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fice-cream%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fboys-tears%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fboys-tears%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Forquestra%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Forquestra%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fnew-kids%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fnew-kids%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Ffabelle%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Ffabelle%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fyoghurt%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fyoghurt%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fmandarina%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fmandarina%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Ffaktori%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Ffaktori%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fget-in%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2Fportfolio%2Fget-in%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/author/admin/feed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\users\1.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/2020/02/29/the-work-is-as-important-as-the-pleasure-we-get-from-doing-it-such-an-authentic-corporate-culture/feed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\2020\02\29\the-work-is-as-important-as-the-pleasure-we-get-from-doing-it-such-an-authentic-corporate-culture\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/posts/133
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\posts\133.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F2020%2F02%2F29%2Fthe-work-is-as-important-as-the-pleasure-we-get-from-doing-it-such-an-authentic-corporate-culture%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F2020%2F02%2F29%2Fthe-work-is-as-important-as-the-pleasure-we-get-from-doing-it-such-an-authentic-corporate-culture%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/2020/02/29/qubment-was-a-startup-that-created-a-powerful-augmented-reality-engine-but-they-needed-to-bring-platform/feed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\2020\02\29\qubment-was-a-startup-that-created-a-powerful-augmented-reality-engine-but-they-needed-to-bring-platform\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/posts/119
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\posts\119.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F2020%2F02%2F29%2Fqubment-was-a-startup-that-created-a-powerful-augmented-reality-engine-but-they-needed-to-bring-platform%2F
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: http://annusa.themezinho.net/wp-json/oembed/1.0/embed?url=http:%2F%2Fannusa.themezinho.net%2F2020%2F02%2F29%2Fqubment-was-a-startup-that-created-a-powerful-augmented-reality-engine-but-they-needed-to-bring-platform%2F&format=xml
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: http://annusa.themezinho.net/category/uncategorized/feed/
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://annusa.themezinho.net/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\Template\annusa.themezinho.net\wp-json\wp\v2\categories\1.json
+Content Type: application/json
+
